@@ -1,0 +1,7 @@
+{
+  "name": "gift-shop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
